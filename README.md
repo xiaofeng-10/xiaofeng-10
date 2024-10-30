@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Xiaofeng (Fiona) 👧
+## Hi there 👋, I'm Fiona 👧
 
 ## About Me
 
