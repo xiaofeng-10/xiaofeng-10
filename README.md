@@ -7,7 +7,7 @@
 - ✨ I enjoy **dancing**, **painting**, and **listingning to K-pop music**! 🎶
 - 📍 Currently based in **California, US**
 - 📫 Feel free to reach out: xiaofeng_cai@ucsb.edu
-- ⚡ Fun fact: I can speak three languages: **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹 
+- ⚡ Fun fact: I can speak three languages **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹 
 
 ## Skills
 - **Computer Languages**: R, Python, SAS, JavaScript, HTML, C++
