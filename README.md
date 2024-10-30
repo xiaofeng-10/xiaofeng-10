@@ -16,7 +16,7 @@
 "Always eager to learn and collaborate!"
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;I%20wish%20you%20a%20great%20day!&center=true&size=24&color=89CFF0&repeat=true">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;I%20wish%20you%20a%20great%20day!&center=true&size=24&color=89CFF0">
 </h1>
 
 
