@@ -4,7 +4,7 @@
 
 - 🎓 I’m a **4th-year undergraduate student** double majoring in **Statistics & Data Science** 💻 and **Geography with GIS Emphasis** 🌍 at the **University of California, Santa Barbara** 🏫
 - 😄 Pronouns: She/Her/Hers
-- ✨ I enjoy **dancing**, **painting**, and **listingning to K-pop music**! 🎶
+- ✨ I enjoy **dancing**, **reading**, and **listingning to K-pop music** during free time ! 🎶
 - 📍 Currently based in **California, US**
 - 📫 Feel free to reach out: xiaofeng_cai@ucsb.edu
 - ⚡ Fun fact: I can speak three languages **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹 
