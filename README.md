@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I can speak three languages **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹 
 
 ## Skills
-- **Computer Languages**: R, Python, SAS, JavaScript, HTML, C++
+- **Computer Languages**: R, Python, SAS, JavaScript, MATLAB, C++
 - **Software**: ArcGIS Products, ENVI 5, ENVI Classic, QGIS, Adobe Photoshop, Adobe Illustrator
 
 "Always eager to learn and collaborate!"
