@@ -6,7 +6,7 @@
 - 💞 I'm also the **Childcare Director** for the UCSB Associated Students Community Affairs Board, where I assist undergraduate students with childcare needs and organize various volunteer events.
 - 😄 Pronouns: She/Her/Hers
 - ✨ I enjoy **dancing**, **reading**, and **listingning to K-pop music** during free time ! 🎶
-- 📍 Currently based in **California, US**
+- 📍 Currently based in **Santa Barbara, CA, US**
 - 📫 Feel free to reach out: xiaofeng_cai@ucsb.edu | xfc030604@gmail.com
 - ⚡ Fun fact: I can speak three languages **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹 
 
