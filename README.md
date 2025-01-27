@@ -5,14 +5,14 @@
 - 🎓 I’m a **4th-year undergraduate student** double majoring in **Statistics & Data Science** 💻 and **Geography with GIS Emphasis** 🌍 at the **University of California, Santa Barbara** 🏫
 - 💞 I'm also the **Childcare Director** for the UCSB Associated Students Community Affairs Board, where I assist undergraduate students with childcare needs and organize various volunteer events.
 - 😄 Pronouns: She/Her/Hers
-- ✨ I enjoy **dancing**, **reading**, and **listingning to K-pop music** during free time ! 🎶
+- ✨ I enjoy **dancing**, **reading**, and **listingning to K-pop music** ! 🎶
 - 📍 Currently based in **Santa Barbara, CA, US**
 - 📫 Feel free to reach out: xiaofeng_cai@ucsb.edu | xfc030604@gmail.com
 - ⚡ Fun fact: I can speak three languages **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹 
 
 ## Skills
 - **Computer Languages**: R, Python, SAS, MATLAB, JavaScript, C++
-- **Software**: ArcGIS Products, ENVI 5, ENVI Classic, QGIS, Excel, Adobe Photoshop, Adobe Illustrator
+- **Software**: Microsoft Excel, ArcGIS Products, ENVI 5, ENVI Classic, QGIS, Excel, Adobe Photoshop, Adobe Illustrator
 
 
 "Always eager to learn and collaborate!"
