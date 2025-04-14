@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🎓 I’m a **4th-year undergraduate student** double majoring in **Statistics & Data Science** 💻 and **Geography with GIS Emphasis** 🌍 at the **University of California, Santa Barbara** 🏫
-- 💞 I'm also the **Childcare Director** for the UCSB Associated Students Community Affairs Board, where I assist undergraduate students with childcare needs and organize various volunteer events.
+- 🎓 I recently graduated from the **University of California, Santa Barbara** 🏫 with a double major in **Statistics & Data Science** 💻 and **Geography with a GIS Emphasis** 🌍.
+- 💞 I worked at the UCSB Associated Students Community Affairs Board for 3 years, serving as **Hunger and Houseless Coordinator** and **Childcare Director**, where I provided support to the local community, assisted student parents with childcare, and organized various volunteer events.
 - 😄 Pronouns: She/Her/Hers
 - ✨ I enjoy **dancing**, **reading**, and **listingning to K-pop music** ! 🎶
 - 📍 Currently based in **Santa Barbara, CA, US**
@@ -11,8 +11,8 @@
 - ⚡ Fun fact: I can speak three languages **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹 
 
 ## Skills
-- **Computer Languages**: R, Python, SAS, MATLAB, JavaScript, C++
-- **Software**: Microsoft Excel, ArcGIS Products, ENVI 5, ENVI Classic, QGIS, Excel, Adobe Photoshop, Adobe Illustrator
+- **Programming Languages**: R, Python, SAS, MATLAB, Shiny, Java, C++
+- **Tools and Software**: Git, Microsoft Excel, ArcGIS Pro, ArcGIS Online, ENVI 5, ENVI Classic, QGIS, Adobe Photoshop, Adobe Illustrator
 
 
 "Always eager to learn and collaborate!"
