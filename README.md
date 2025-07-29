@@ -12,7 +12,7 @@
 
 ## Skills
 - **Programming Languages**: R, Python, SAS, MATLAB, Shiny, Java, C++
-- **Tools and Software**: Git, Microsoft Excel, ArcGIS Pro, ArcGIS Online, ENVI 5, ENVI Classic, QGIS, Adobe Photoshop, Adobe Illustrator
+- **Tools and Software**: Tableau, Latex, Microsoft Excel, ArcGIS Pro, ArcGIS Online, ENVI 5, ENVI Classic, QGIS, Adobe Photoshop, Adobe Illustrator
 
 
 "Always eager to learn and collaborate!"
