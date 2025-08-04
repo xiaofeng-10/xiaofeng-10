@@ -7,7 +7,7 @@
 - 😄 Pronouns: She/Her/Hers
 - ✨ I enjoy **dancing**, **reading**, and **listingning to K-pop music** ! 🎶
 - 📍 Currently based in **Santa Barbara, CA, US**
-- 📫 Feel free to reach out: xiaofeng_cai@ucsb.edu | xfc030604@gmail.com
+- 📫 Feel free to reach out: xfc030604@gmail.com
 - ⚡ Fun fact: I can speak three languages **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹 
 
 ## Skills
