@@ -2,12 +2,12 @@
 
 ## About Me
 
-- 🎓 I recently graduated from the **University of California, Santa Barbara** 🏫 with a double major in **Statistics & Data Science** 💻 and **Geography with a GIS Emphasis** 🌍.
-- 💞 I worked at the UCSB Associated Students Community Affairs Board for 3 years, serving as **Hunger and Houseless Coordinator** and **Childcare Director**, where I provided support to the local community, assisted student parents with childcare, and organized various volunteer events.
+- 🎓 Currently M.S. Applied Data Science @ **University of Chicago** | B.S. Statistics & Data Science📚 + B.A. Geography (GIS)🌍 @ **University of California, Santa Barbara (UCSB)**
 - 😄 Pronouns: She/Her/Hers
+- 💞 I worked at the UCSB Associated Students Community Affairs Board for 3 years, serving as **Hunger and Houseless Coordinator** and **Childcare Director**, where I provided support to the local community, assisted student parents with childcare, and organized various volunteer events.
 - ✨ I enjoy **dancing**, **reading**, and **listingning to K-pop music** ! 🎶
-- 📍 Currently based in **Santa Barbara, CA, US**
-- 📫 Feel free to reach out: xfc030604@gmail.com
+- 📍 Currently based in **Chicago, IL, US**
+- 📫 Feel free to reach out: xfc030604@gmail.com | xiaofengcai@uchicago.edu
 - ⚡ Fun fact: I can speak three languages **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹 
 
 ## Skills
