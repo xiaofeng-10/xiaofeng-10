@@ -8,7 +8,7 @@
 - ✨ I enjoy **dancing**, **reading**, and **listingning to K-pop music** ! 🎶
 - 📍 Currently based in **Chicago, IL, US**
 - 📫 Feel free to reach out: xfc030604@gmail.com | xiaofengcai@uchicago.edu
-- ⚡ Fun fact: I can speak three languages **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹 
+- ⚡ Fun fact: I can speak three languages **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹
 
 ## Skills
 - **Programming Languages**: Python, R, SQL, SAS, MATLAB, Shiny, Java, C++
