@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 Currently M.S. Applied Data Science @ **University of Chicago** | B.S. Statistics & Data Science📚 + B.A. Geography (GIS)🌍 @ **University of California, Santa Barbara (UCSB)**
+- 🎓 Currently M.S. Applied Data Science📊 @ **University of Chicago** | B.S. Statistics & Data Science🔢 **+** B.A. Geography (GIS)🌍 @ **University of California, Santa Barbara (UCSB)**
 - 😄 Pronouns: She/Her/Hers
 - 💞 I worked at the UCSB Associated Students Community Affairs Board for 3 years, serving as **Hunger and Houseless Coordinator** and **Childcare Director**, where I provided support to the local community, assisted student parents with childcare, and organized various volunteer events.
 - ✨ I enjoy **dancing**, **reading**, and **listingning to K-pop music** ! 🎶
@@ -12,7 +12,7 @@
 
 ## Skills
 - **Programming Languages**: Python, R, SQL, SAS, MATLAB, Shiny, Java, C++
-- **Tools and Software**: AWS (S3, Athena), GCP BigQuery, Apache Spark, Airflow, Kafka, Tableau, Google Colab, R Shiny, Microsoft Excel, Adobe Photoshop, Adobe Illustrator
+- **Tools and Software**: AWS (S3, Athena), GCP BigQuery, Apache Spark, Airflow, Kafka, Tableau, R Shiny, Microsoft Excel, Adobe Photoshop, Adobe Illustrator
 - **GIS & Remote Sensing**: ArcGIS Pro/Online, QGIS, ENVI (5 & Classic), ArcGIS Dashboards, ArcGIS Field Maps
 
 
