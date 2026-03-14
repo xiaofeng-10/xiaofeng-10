@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I can speak three languages **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹
 
 ## Skills
-- **Programming Languages**: Python, R, SQL, SAS, MATLAB, Shiny, Java, C++
+- **Programming Languages**: Python, R, SQL, SAS, MATLAB, Java, C++
 - **Tools and Software**: AWS (S3, Athena), GCP BigQuery, Apache Spark, Airflow, Kafka, Tableau, R Shiny, Microsoft Excel, Adobe Photoshop, Adobe Illustrator
 - **GIS & Remote Sensing**: ArcGIS Pro/Online, QGIS, ENVI (5 & Classic), GeoDa, ArcGIS Dashboards, ArcGIS Field Maps
 
