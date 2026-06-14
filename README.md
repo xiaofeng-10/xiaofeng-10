@@ -1,21 +1,26 @@
-## Hi there 👋, I'm Fiona 👧🏻
+## Hi there 👋, I'm Xiaofeng (Fiona) 👧🏻
 
 ## About Me
 
-- 🎓 Currently M.S. Applied Data Science📊 @ **University of Chicago** | B.S. Statistics & Data Science🔢 **+** B.A. Geography (GIS)🌍 @ **University of California, Santa Barbara (UCSB)**
-- 😄 Pronouns: She/Her/Hers
-- 💞 I worked at the UCSB Associated Students Community Affairs Board for 3 years, serving as **Hunger and Houseless Coordinator** and **Childcare Director**, where I provided support to the local community, assisted student parents with childcare, and organized various volunteer events.
-- ✨ I enjoy **dancing**, **reading**, and **listingning to K-pop music** ! 🎶
-- 📍 Currently based in **Chicago, IL, US**
-- 📫 Feel free to reach out: xfc030604@gmail.com | xiaofengcai@uchicago.edu
-- ⚡ Fun fact: I can speak three languages **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹
+- 🎓 M.S. in Applied Data Science📊 @ **University of Chicago**
+- 🎓 B.S. in Statistics & Data Science🔢 **+** B.A. in Geography (GIS)🌍 @ **University of California, Santa Barbara (UCSB)**
+- 💞 Interested in **Spatial Data Science**, **GIS**, **Transportation Analytics**, and **Urban Data**. I enjoy applying data science and geospatial technologies to solve real-world problems and turn complex data into actionable insights.
+- 📍 Based in **Chicago, IL, US**
 
-## Skills
+### Current Roles
+- 🗺️ Research Assistant @ Center for Spatial Data Science (CSDS)
+- 🚌 Disruption Management Intern @ Chicago Transit Authority (CTA)
+
+
+### Skills
 - **Programming Languages**: Python, R, SQL, SAS, MATLAB, Java, C++
-- **Tools and Software**: AWS (S3, Athena), GCP BigQuery, Apache Spark, Airflow, Kafka, Tableau, R Shiny, Microsoft Excel, Adobe Photoshop, Adobe Illustrator
+- **Tools and Software**: AWS (S3, Athena), GCP BigQuery, Apache Spark, Airflow, Kafka, Tableau, R Shiny, Microsoft Excel
 - **GIS & Remote Sensing**: ArcGIS Pro/Online, QGIS, ENVI (5 & Classic), GeoDa, ArcGIS Dashboards, ArcGIS Field Maps
 
-
+### Beyond Work
+- ✨ I enjoy **dancing**, **reading**, and **listening to K-pop music**!
+- 📫 Feel free to reach out: xfc030604@gmail.com | xiaofengcai@uchicago.edu
+- ⚡ Fun fact: I can speak three languages **English** 🇺🇸 **Chinese** 🇨🇳 **Italian** 🇮🇹
 
 "Always eager to learn and collaborate!"
 
