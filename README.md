@@ -16,7 +16,7 @@
 - **Programming Languages**: Python (pandas, scikit-learn, TensorFlow, statsmodels, matplotlib), R (tidyverse, tidymodels, ggplot2, shiny), SQL, SAS, MATLAB
 - **Data Platforms**: Oracle, Redshift, BigQuery
 - **Cloud and Big Data**: AWS (S3, Athena), GCP, Spark, Parquet, Airflow, Kafka
-- **Tools**: DBeaver, Docker, Tableau, Power BI, Excel, Git/GitHub
+- **Tools**: DBeaver, Docker, Tableau, Power BI, Excel
 - **GIS**: ArcGIS Pro/Online (Dashboards, Field Maps), QGIS, ENVI, GeoDa
 
 
