@@ -13,9 +13,12 @@
 
 
 ### Skills
-- **Programming Languages**: Python, R, SQL, SAS, MATLAB, Java, C++
-- **Tools and Software**: AWS (S3, Athena), GCP BigQuery, Apache Spark, Airflow, Kafka, Tableau, R Shiny, Microsoft Excel
-- **GIS & Remote Sensing**: ArcGIS Pro/Online, QGIS, ENVI (5 & Classic), GeoDa, ArcGIS Dashboards, ArcGIS Field Maps
+- **Programming Languages**: Python (pandas, scikit-learn, TensorFlow, statsmodels, matplotlib), R (tidyverse, tidymodels, ggplot2, shiny), SQL, SAS, MATLAB
+- **Data Platforms**: Oracle, Redshift, BigQuery
+- **Cloud and Big Data**: AWS (S3, Athena), GCP, Spark, Parquet, Airflow, Kafka
+- **Tools**: DBeaver, Docker, Tableau, Power BI, Excel, Git/GitHub
+- **GIS**: ArcGIS Pro/Online (Dashboards, Field Maps), QGIS, ENVI, GeoDa
+
 
 ### Beyond Work
 - ✨ I enjoy **dancing**, **reading**, and **listening to K-pop music**!
