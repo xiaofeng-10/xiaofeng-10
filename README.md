@@ -13,10 +13,11 @@
 
 
 ### Skills
-- **Programming**: Python (pandas, scikit-learn, TensorFlow, statsmodels, matplotlib), R (tidyverse, tidymodels, ggplot2, shiny), SQL (Oracle, Redshift, BigQuery), SAS
-- **Cloud and Big Data**: AWS (S3, Athena), GCP, Spark, Parquet, Airflow, Kafka
-- **Tools**: Tableau, Power BI, Docker, Git/GitHub, Excel, DBeaver
+- **Programming**: Python (pandas, scikit-learn, TensorFlow, statsmodels, BeautifulSoup), R (tidyverse, tidymodels, Shiny), SQL, SAS
+- **Databases & Cloud**: Oracle, Amazon Redshift, BigQuery, DuckDB, AWS (S3, Athena), GCP
+- **Big Data & Tools**: Spark, Parquet, Airflow, Kafka, Docker, DBeaver, Tableau, Power BI, Git/GitHub, Excel
 - **GIS**: ArcGIS Pro/Online (Dashboards, Field Maps), QGIS, GeoDa, ENVI
+
 
 
 ### Beyond Work
