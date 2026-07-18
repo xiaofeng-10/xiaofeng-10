@@ -13,7 +13,7 @@
 
 
 ### Skills
-- **Programming**: Python (pandas, scikit-learn, TensorFlow, statsmodels, BeautifulSoup), R (tidyverse, tidymodels, Shiny), SQL, SAS
+- **Programming**: Python (pandas, scikit-learn, TensorFlow, statsmodels), R (tidyverse, tidymodels, Shiny), SQL, SAS
 - **Databases & Cloud**: Oracle, Amazon Redshift, BigQuery, DuckDB, AWS (S3, Athena), GCP
 - **Data Engineering**: Spark, Parquet, Airflow, Kafka, Docker
 - **Visualization & Tools**: Tableau, Power BI, Git/GitHub, Excel, DBeaver
