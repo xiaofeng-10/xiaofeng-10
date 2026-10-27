@@ -8,7 +8,7 @@
 - 📍 Based in **Chicago, IL, US**
 
 ### Current Roles
-- 🗺️ Research Assistant @ Center for Spatial Data Science (CSDS)
+- 🗺️ Research Assistant @ Spatial Data Science Lab (SDSL)
 - 🚌 Disruption Management Intern @ Chicago Transit Authority (CTA)
 
 
